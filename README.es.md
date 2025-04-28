@@ -1,4 +1,4 @@
-# Plantilla de WebApp con React JS y Flask API
+# Holi! Plantilla de WebApp con React JS y Flask API
 
 Construye aplicaciones web usando React.js para el front end y python/flask para tu API backend.
 
